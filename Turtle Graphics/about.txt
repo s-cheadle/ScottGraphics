@@ -1,0 +1,24 @@
+----------------------------------
+ABOUT SCOTT GRAPHICS
+----------------------------------
+Scott Graphics is my submission for the Object Oriented Programming module coursework assignment at Leeds Beckett University.
+It is my version of the Turtle Graphics program. I hope you enjoy the program as much as I did programming it.
+----------------------------------
+INSTRUCTIONS
+----------------------------------
+Enter commands into the field below the canvas. The commands that you can give are listed below.
+**********************************
+penup - Lifts the pen from the canvas. While the pen is lifted, it will not draw on the canvas.
+pendown - Places the pen back on the canvas. While down, its movements will draw on the canvas.
+turnleft - Turns the pen 90 degrees left.
+turnright - Turns the pen 90 degrees right.
+forward <distance> - The pen moves forward the number indicated by <distance>. It must be a whole number e.g. "forward 35".
+backward <distance> - The pen moves backward the number indicated by <distance>. It must be a whole number e.g. "backward 153".
+circle <radius> - The pen draws a hollow circle. <radius> must be a whole number e.g. "circle 75".
+fill-circle <radius> - The pen draws a filled circle. <radius> must be a whole number e.g. "fill-circle 102".
+black - Changes the pen colour to black.
+green - Changes the pen colour to green.
+white - Changes the pen colour to white.
+blue - Changes the pen colour to green.
+red - Changes the pen colour to red.
+reset - Restores the canvas to its original state.
